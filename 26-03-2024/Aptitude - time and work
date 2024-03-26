@@ -1,0 +1,36 @@
+1.Amruta can do a piece of work in 20 days.Narendra is 25% more efficient than Amruta.  The number of days taken by Narendra to do the same piece of work in?
+Option:
+a, 15 days
+b, 16 days
+c, 18 days
+d, 20 days
+Solution: 
+
+25% eff 
+100 + 25 = 125
+125:100 =  5:4
+we take for n day 
+     5:4 = 20:n
+     5*n = 20*4
+     n = (20*4)/5
+     n = 16 days
+
+
+correct answer is option B     
+
+2.A can finish a work in 24 dyas B in 9 days and C in 12 days.   B and c start the work but are forced to leave after 3 days. The remaining work was done by A is?
+Option:
+a, 5 days
+b, 6 days
+c, 10 days
+d, 11 days
+Solution:
+LCM of 24,9,12 is 216
+Therefore, efficiency of A is 216/24=9
+           efficiency of A is 216/9=24
+           efficiency of A is 216/12=18
+B and C start the work so efficiency of B+C is 24+18=42 for 3 days 3*42=126
+so B and C completed the work together is 126. Then the remaining work is 216-126=90
+A takes to complete the work is remaining work/efficiency of A=90/9=10 days
+
+correct answer is option c
